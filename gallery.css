@@ -1,7 +1,7 @@
 
 div{
     width: 23%;
-height: 515px;
+height: 555px;
     border: 2px rgb(247, 244, 244) solid;
     background-color: black;
     color: aliceblue;
@@ -20,7 +20,11 @@ img{
 }
 h1{
     text-align: center;
+    margin: 10px 0;
 }
 h3{
     text-align: center;
+}
+.adi{
+    padding-bottom: 30px;
 }
